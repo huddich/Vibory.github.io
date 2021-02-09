@@ -1,0 +1,52 @@
+#container {
+	margin:0 auto;
+	width:90%;
+	border:1px solid black;
+}
+
+img {
+	width:50%;
+	height:45%;
+	object-fit:cover;
+	margin:8px 8px 8px 0;
+}
+.menu {
+		margin:0 150px;
+		float:left;
+		color:#FFECEC;
+		
+}
+header {
+	background-image:url(шапка.jpg);
+	color:#FFECEC;
+	text-align:center;
+}
+footer {
+	background-color:#3F7575
+}
+nav {
+	background-color:#4FB6CC;
+	height:30px;
+}
+.one {
+	background-color:#6CC6C6;
+}
+.two {
+	background-color:#509898;
+}
+.vote {
+	float:left;
+}
+.vibory {
+	float:right;
+}
+article {
+	background-color:#6CC6C6;
+	color:#FFECEC;
+	font-size:16pt;
+}
+
+.podval {
+	width:100px;
+	height:90px;
+}

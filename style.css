@@ -13,16 +13,18 @@ h1 {
 nav {
 	background-color:#4FB6CC;
 	height:30px;
-	
+	color:#FFECEC;
 }
 article {
 	background-color:#6CC6C6;
 	color:#FFECEC;
+	font-size:18px;
 }
 .menu{
 		margin:0 150px;
 		float:left;
-	
+		margin-top:-10px;
+		color:#FFECEC;
 }
 img {
 	
@@ -40,4 +42,12 @@ header {
 	background-image:url(шапка.jpg);
 	color:#FFECEC;
 }
-
+.podval {
+	width:100px;
+	height:90px;
+}
+.menu:hover {
+	color:black;
+	font-size:18px;
+	background-color:white;
+}

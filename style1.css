@@ -11,10 +11,10 @@ img {
 	height:45%;
 }
 .four {
-	height:306px;
+	height:350px;
 }
 .three {
-	height:306px;
+	height:350px;
 }
 header {
 	background-image:url(шапка.jpg);
@@ -70,4 +70,9 @@ footer {
 .podval {
 	width:100px;
 	height:90px;
+}
+.menu:hover {
+	color:black;
+	font-size:18px;
+	background-color:white;
 }
