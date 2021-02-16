@@ -2,10 +2,9 @@
 	margin:0 auto;
 	width:90%;
 	border:1px solid black;
+	min-width:1050px;
 }
-* {
-	border:1px solid black;
-}
+
 img {
 	width:50%;
 	height:45%;
@@ -17,21 +16,23 @@ img {
 	height:350px;
 }
 header {
-	background-image:url(шапка.jpg);
+	background-image:url(head.jpg);
 	color:#FFECEC;
+	border:1px solid black;
 	text-align:center;
 }
 img{
 	object-fit:cover;
 }
 .menu {
-		margin:0 150px;
+		margin:0 120px;
 		float:left;
 		color:#FFECEC;
-		margin-top:-10px;
+		
 }
 nav {
 	background-color:#4FB6CC;
+	border:1px solid #4FB6CC;
 	height:30px;
 }
 .one {
@@ -42,13 +43,15 @@ nav {
 }
 article {
 	background-color:#6CC6C6;
+	border:1px solid #6CC6C6;
 	color:#FFECEC;
 	font-size:16pt;
 	
 	
 }
 footer {
-	background-color:#3F7575
+	background-color:#3F7575;
+	border:1px solid #3F7575;
 }
 
 .george {

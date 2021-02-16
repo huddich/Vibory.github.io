@@ -1,9 +1,8 @@
-*{
-	border:1px solid black;
-}
+
 #container {
 	width:90%;
 	margin:0 auto;
+	min-width:1050px;
 	border:1px solid black;
 }
 h1 {
@@ -14,16 +13,17 @@ nav {
 	background-color:#4FB6CC;
 	height:30px;
 	color:#FFECEC;
+	border:1px solid #4FB6CC;
 }
 article {
 	background-color:#6CC6C6;
 	color:#FFECEC;
 	font-size:18px;
+	border:1px solid #6CC6C6;
 }
 .menu{
-		margin:0 150px;
+		margin:0 120px;
 		float:left;
-		margin-top:-10px;
 		color:#FFECEC;
 }
 img {
@@ -37,10 +37,12 @@ img {
 }
 footer {
 	background-color:#3F7575;
+	border:1px solid #3F7575;
 }
 header {
-	background-image:url(шапка.jpg);
+	background-image:url(head.jpg);
 	color:#FFECEC;
+	border:1px solid black;
 }
 .podval {
 	width:100px;
